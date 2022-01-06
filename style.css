@@ -83,6 +83,10 @@ h5{
 }
 .four-section{
     display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 500px 400px;
+    background-position: left middle;
     margin-bottom:100px;
 }
 .for-four img{
@@ -115,6 +119,10 @@ h5{
 }
 .five-section{
     display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 500px 300px;
+    background-position: right bottom;
     margin-bottom: 100px;
 
 }
@@ -137,6 +145,10 @@ h5{
 }
 .for-six img{
     width: 80%;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px 80px;
+    background-position: left top;
     margin-left: 150px;
 
 }
