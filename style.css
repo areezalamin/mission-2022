@@ -1,0 +1,162 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.for-mission{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    border-left: 5px solid #aa1212;
+    padding-left: 15px;
+}
+.mission{
+    color: orange;
+}
+h5{
+    color: rgb(51, 110, 95);
+}
+.first-part{
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.first-part img{
+    width: 80%;
+
+}
+.first-section{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.explore{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+.for-center{
+    text-align: center;
+
+}
+.lonly{
+    color: orange;
+}
+.illastator{
+    height: 200px;
+    width: 200px;
+
+}
+.for-stand{
+    height: 300px;
+    width: 400px;
+    background-color: hsla(60, 33%, 97%, 0.733);
+    margin-left: 150px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 20px 40px;
+
+}
+.for-laptop{
+    height: 300px;
+    width: 400px;
+    background-color: #fce7fd;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 20px 40px;
+
+}
+.for-tree{
+    height: 300px;
+    width: 400px;
+    background-color: papayawhip;
+    margin-left: 20px;
+    margin-right: 150px;
+    border-radius: 20px;
+    padding: 20px 40px;
+
+}
+.for-three{
+    margin-bottom: 100px;
+}
+.four-section{
+    display: flex;
+    margin-bottom:100px;
+}
+.for-four img{
+    width: 80%;
+    margin-left: 150px;
+
+}
+.for-four{
+    width: 50%;
+    margin-right: 200px;
+
+
+
+}
+.documentation{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #fa4842;
+    padding: 20px 30px;
+    border-radius: 5px;
+    
+}
+.for-five img{
+    width: 80%;
+    margin-right: 200px;
+    padding-right: 5px;
+    
+
+
+}
+.five-section{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.for-five{
+    width: 50%;
+    margin-left: 150px;
+
+}
+.for-corona{
+    text-align: center;
+    font-size: 50px;
+}
+.corona-color{
+    color: orange;
+}
+.six-section{
+    display: flex;
+    margin-bottom:100px;
+    padding: 30px;
+}
+.for-six img{
+    width: 80%;
+    margin-left: 150px;
+
+}
+.for-six{
+    width: 50%;
+    margin-right: 200px;
+
+}
+footer{
+    color: white;
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+.for-footer{
+    text-align: center;
+    font-size: 50px;
+    font-family:"Sofia", sans-serif;
+}
+h4{
+    text-align: center;
+    color: gray;
+}
